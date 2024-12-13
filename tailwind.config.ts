@@ -19,7 +19,7 @@ const config: Config = {
         purpleSky:"#CFCEFF",
         purpleSkyLight:"#F1F0FF",
         yellowSky:"#FAE27C",
-        yellowSkyLight:"#FEFCCE8",
+        yellowSkyLight:"#FEFCE8",
       }
     },
   },
